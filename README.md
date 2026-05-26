@@ -42,4 +42,7 @@ In the rapidly evolving landscape of software development, the implementation of
 1. AWS account
 2. Terraform and Ansible should be installed and configured on your local computer
 
-Phase I: Installation and configuration
+## Phase 1: Installation and configuration
+
+- We have used terraform config files to provision AWS resources and ansible playbooks to configure the instances as per our requirement, so you should know how to write terraform config files and ansible playbooks for understanding this phase of the project clearly. If you want to test the project then you can just clone the repo and run the commands which will automatically set up the required AWS resources.
+
