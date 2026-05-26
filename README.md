@@ -18,3 +18,20 @@ Techonology Stack
 
 ● Gradle
 
+● Ansible
+
+● Terraform
+
+● Jenkins
+
+● SonarQube
+
+● SonaType Nexus Repository Manager
+
+● Kubernetes (kubeadm k8s cluster)
+
+● Helm
+
+● datree.io
+
+● Slack
