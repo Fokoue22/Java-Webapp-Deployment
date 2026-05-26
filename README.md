@@ -36,3 +36,7 @@ In the rapidly evolving landscape of software development, the implementation of
 ● datree.io
 
 ● Slack
+
+Prerequisites
+AWS account
+Terraform and Ansible should be installed and configured on your local computer
