@@ -7,5 +7,6 @@ This project aims to build an advanced end-to-end CICD DevOps pipeline for a Jav
 
 ### 2. In the second phase, we will create an advanced end-to-end Jenkins pipeline with multiple stages.
 
-Problem Statement
+## Problem Statement
+
 In the rapidly evolving landscape of software development, the implementation of Continuous Integration/Continuous Deployment (CICD) processes has become indispensable. For Java web applications, a robust CICD pipeline not only streamlines the development process but also ensures the delivery of high-quality, reliable software to end-users. This project aims to construct an advanced end-to-end CICD DevOps pipeline tailored specifically for Java web applications.
