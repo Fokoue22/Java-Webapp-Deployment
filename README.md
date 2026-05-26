@@ -39,5 +39,5 @@ In the rapidly evolving landscape of software development, the implementation of
 
 ## Prerequisites
 
-AWS account
+### 1. AWS account
 Terraform and Ansible should be installed and configured on your local computer
