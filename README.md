@@ -48,3 +48,7 @@ In the rapidly evolving landscape of software development, the implementation of
 
 - We need five servers to set up our CICD pipeline infrastructure. We have used Ubuntu as the base operating system for all our servers.
 
+a.  Jenkins Server - jenkins
+
+This will host our jenkins application to implement our CI/CD pipelines.
+
