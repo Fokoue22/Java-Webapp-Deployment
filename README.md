@@ -80,3 +80,4 @@ In the rapidly evolving landscape of software development, the implementation of
    - Navigate to **IAM > Users > terraform-user**, select **Security credentials** and click on **Create access key**, select **Other** and click on **Next**.
    - Enter a **Name** ``tf-access-key`` for your access key and click on **Create access key** to create the key.
 ![Alt text](images/AccessKey-Description.png)
+   - Next, you will get an option to **Download** the ``.csv`` file containing the access key and secret key or you can simply copy and store them in a safe place
