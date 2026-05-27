@@ -74,3 +74,4 @@ In the rapidly evolving landscape of software development, the implementation of
 
   - On the next page, select **Attach policies directly** and attach the **AdministratorAccess policy** to the user. Click on **Next**, then click on **Create user**.
 ![Alt text](images/IAMUser-SetPermissions.png)
+![Alt text](images/IAMUser-Review.png)
