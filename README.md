@@ -72,4 +72,4 @@ In the rapidly evolving landscape of software development, the implementation of
   - Goto **IAM > Users**, click on **Add users** and enter the **user name** ``terraform-user`` and click **Next**.
 ![Alt text](images/IAMUser-name.png)
 
-  - On the next page, select Attach policies directly and attach the AdministratorAccess policy to the user. Click on Next, then click on Create user.
+  - On the next page, select **Attach policies directly** and attach the **AdministratorAccess policy** to the user. Click on **Next**, then click on **Create user**.
