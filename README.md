@@ -49,6 +49,8 @@ In the rapidly evolving landscape of software development, the implementation of
 - We need five servers to set up our CICD pipeline infrastructure. We have used Ubuntu as the base operating system for all our servers.
 
 1.  Jenkins Server - jenkins
+- This will host our jenkins application to implement our CI/CD pipelines.
 
-This will host our jenkins application to implement our CI/CD pipelines.
+2. SonarQube Server - sonar
+- This server will host the SonarQube application. It is used for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs and code smells.
 
