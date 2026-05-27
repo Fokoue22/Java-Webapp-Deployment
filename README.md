@@ -77,5 +77,5 @@ In the rapidly evolving landscape of software development, the implementation of
 ![Alt text](images/IAMUser-Review.png)
 
 3. Create an AWS access key for the newly created user.
-   - Navigate to **IAM > Users > tf-user**, select **Security credentials** and click on **Create access key**, select **Other** and click on **Next**.
+   - Navigate to **IAM > Users > terraform-user**, select **Security credentials** and click on **Create access key**, select **Other** and click on **Next**.
    - Enter a name for your access key and click on **Create access key** to create the key.
