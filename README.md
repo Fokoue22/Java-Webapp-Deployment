@@ -69,10 +69,10 @@ In the rapidly evolving landscape of software development, the implementation of
 1. To be able to set up the AWS resources with Terraform, we need to access AWS using **Access Keys**
 
 2. Create a new user with administrator access to the AWS account
-  - Goto **IAM > Users**, click on **Add users** and enter the **user name** ``terraform-user`` and click **Next**.
+   - Goto **IAM > Users**, click on **Add users** and enter the **user name** ``terraform-user`` and click **Next**.
 ![Alt text](images/IAMUser-name.png)
 
-  - On the next page, select **Attach policies directly** and attach the **AdministratorAccess policy** to the user. Click on **Next**, then click on **Create user**.
+   - On the next page, select **Attach policies directly** and attach the **AdministratorAccess policy** to the user. Click on **Next**, then click on **Create user**.
 ![Alt text](images/IAMUser-SetPermissions.png)
 ![Alt text](images/IAMUser-Review.png)
 
