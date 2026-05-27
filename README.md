@@ -63,3 +63,5 @@ d. Kubernetes control plane node - k8s-master
 e. Kubernetes worker node - k8s-node1
   - The k8s-node1 server will act as a worker node for our kubernetes cluster This concludes the brief description of the servers needed for our project. We can now proceed to Phase I.
 
+
+### Setup AWS account for Terraform
