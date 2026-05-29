@@ -83,3 +83,6 @@ In the rapidly evolving landscape of software development, the implementation of
 
    - Next, you will get an option to **Download** the ``.csv`` file containing the access key and secret key or you can simply copy and store them in a safe place
 ![Alt text](images/AccessKey-Retrieve.png)
+
+4. Set environment variables on your local system for Terraform to access the AWS access key.
+
