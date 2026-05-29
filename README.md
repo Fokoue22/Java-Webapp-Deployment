@@ -88,3 +88,5 @@ In the rapidly evolving landscape of software development, the implementation of
    - Create a file called ``.envrc`` in your home directory and write the commands to export the environment variables in it.
 
 Replace the data with your AWS access and secret keys and save the file. We have used the same variables in our terraform config files so make sure the name of the environment variables are exactly as mentioned in the code block above.
+
+   - Edit your ``.bashrc`` file and add this line at the end source ``~/.envrc`` save the file and exit.
