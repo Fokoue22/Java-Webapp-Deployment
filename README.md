@@ -85,4 +85,5 @@ In the rapidly evolving landscape of software development, the implementation of
 ![Alt text](images/AccessKey-Retrieve.png)
 
 4. Set environment variables on your local system for Terraform to access the AWS access key.
+   - Create a file called ``.envrc`` in your home directory and write the commands to export the environment variables in it.
 
