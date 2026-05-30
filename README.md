@@ -100,3 +100,5 @@ git clone https://github.com/mandeepsingh10/cicd-setup.git
 ```
 
 1. In the git repo, we have three directories.
+   - ansible_config - contains all the ansible playbooks
+
