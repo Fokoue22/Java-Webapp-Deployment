@@ -104,5 +104,7 @@ git clone https://github.com/mandeepsingh10/cicd-setup.git
    - **terraform_config** - contains all the terraform config files
    - **scripts** - contains miscellaneous scripts to automate some tasks
 
+2. To provision AWS instances using Terraform, we need to specify a public key to access the resources, 
+
 
 
