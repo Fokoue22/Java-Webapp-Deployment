@@ -106,5 +106,7 @@ git clone https://github.com/mandeepsingh10/cicd-setup.git
 
 2. To provision AWS instances using Terraform, we need to specify a **public key** to access the resources, we can use our **public key** for this instead of creating a new pair as it will help us to directly access the **EC2 instances** without doing any additional configuration for ssh.
 
+3. Copy your public key from ~/.ssh 
+
 
 
