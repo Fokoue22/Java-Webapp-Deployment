@@ -98,3 +98,5 @@ https://github.com/Fokoue22/Java-Webapp-Deployment.git
 ```
 git clone https://github.com/mandeepsingh10/cicd-setup.git
 ```
+
+1. In the git repo, we have three directories.
