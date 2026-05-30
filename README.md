@@ -93,3 +93,5 @@ Replace the data with your AWS access and secret keys and save the file. We have
 
 ### Clone the Git repository
 https://github.com/Fokoue22/Java-Webapp-Deployment.git
+
+git clone https://github.com/mandeepsingh10/cicd-setup.git
