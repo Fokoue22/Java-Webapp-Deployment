@@ -90,3 +90,5 @@ In the rapidly evolving landscape of software development, the implementation of
 Replace the data with your AWS access and secret keys and save the file. We have used the same variables in our terraform config files so make sure the name of the environment variables are exactly as mentioned in the code block above.
 
    - Edit your ``.bashrc`` file and add this line at the end source ``~/.envrc`` save the file and exit.
+
+Clone the Git repository
