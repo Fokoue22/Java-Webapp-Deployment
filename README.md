@@ -87,7 +87,7 @@ In the rapidly evolving landscape of software development, the implementation of
 4. Set environment variables on your local system for Terraform to access the AWS access key.
    - Create a file called ``.envrc`` in your home directory and write the commands to export the environment variables in it.
 ```
-            #!/bin/bash
+#!/bin/bash
             ##Access_keys for AWS Terraform User##
             export TF_VAR_access_key="Enter the aws access key here"
             export TF_VAR_secret_key="Enter the secret access key here"
