@@ -90,7 +90,7 @@ In the rapidly evolving landscape of software development, the implementation of
 #!/bin/bash
 ##Access_keys for AWS Terraform User##
 export TF_VAR_access_key="Enter the aws access key here"
-            export TF_VAR_secret_key="Enter the secret access key here"
+export TF_VAR_secret_key="Enter the secret access key here"
 
 ``` 
 
