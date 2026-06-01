@@ -115,5 +115,9 @@ git clone https://github.com/mandeepsingh10/cicd-setup.git
 
 3. Copy your **public key** from ``~/.ssh`` directory to every Terraform configuration directory under terraform_config directory in the repository.
 
+```
+cp $HOME/.ssh/id_rsa.pub $HOME/repos/cicd-setup/terraform_config/jenkins/publickey.pub
+```
+
 
 
