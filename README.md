@@ -119,5 +119,7 @@ git clone https://github.com/mandeepsingh10/cicd-setup.git
 cp $HOME/.ssh/id_rsa.pub $HOME/repos/cicd-setup/terraform_config/jenkins/publickey.pub
 ```
 
+My repository is present at $HOME/repos path, 
+
 
 
