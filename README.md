@@ -121,6 +121,11 @@ cp $HOME/.ssh/id_rsa.pub $HOME/repos/cicd-setup/terraform_config/jenkins/publick
 
 My repository is present at ``$HOME/repos`` path, change that path as per your repo path and copy the public key as ``publickey.pub`` to all the directories ``jenkins, master, nexus, node1`` and ``sonar`` under ``terraform_config directory``.
 
-Now we will be able to provision the terraform resources by just running the terraform apply command.
+Now we will be able to provision the terraform resources by just running the 
+
+```
+terraform apply 
+```
+command.
 
 
