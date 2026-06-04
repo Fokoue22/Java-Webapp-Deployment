@@ -127,3 +127,4 @@ terraform apply
 ```
 
 ### Create AWS instances using Terraform
+1. First, we need to initialize all the directories where we have our Terraform configuration files.
