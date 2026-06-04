@@ -133,4 +133,4 @@ cd  $HOME/repos/cicd-setup/terraform_config/jenkins terraform init
 ```
 
 We need to initialize all the directories where we have our Terraform configuration files. 
-To do this, navigate to each directory under cicd/terraform_config - jenkins, master, nexus, node1, and sonar - and run the command terraform init.
+To do this, navigate to each directory under ``cicd/terraform_config - jenkins, master, nexus, node1,`` and ``sonar`` - and run the command terraform init.
