@@ -121,7 +121,7 @@ cp $HOME/.ssh/id_rsa.pub $HOME/repos/cicd-setup/terraform_config/jenkins/publick
 
 My repository is present at ``$HOME/repos`` path, change that path as per your repo path and copy the public key as ``publickey.pub`` to all the directories ``jenkins, master, nexus, node1`` and ``sonar`` under ``terraform_config directory``.
 
-Now we will be able to provision the terraform resources by just running the command.
+Now we will be able to provision the terraform resources by just running the command below
 ```
 terraform apply 
 ```
@@ -133,7 +133,7 @@ cd  $HOME/repos/cicd-setup/terraform_config/jenkins terraform init
 ```
 
 We need to initialize all the directories where we have our Terraform configuration files. 
-To do this, navigate to each directory under ``cicd/terraform_config - jenkins, master, nexus, node1,`` and ``sonar`` - and run the command 
+To do this, navigate to each directory under ``cicd/terraform_config - jenkins, master, nexus, node1,`` and ``sonar`` - and run the command below
 ```
 terraform init
 ```
