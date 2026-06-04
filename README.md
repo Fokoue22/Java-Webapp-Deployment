@@ -131,3 +131,5 @@ terraform apply
 ```
 cd  $HOME/repos/cicd-setup/terraform_config/jenkins terraform init
 ```
+
+We need to initialize all the directories where we have our Terraform configuration files. 
