@@ -126,4 +126,4 @@ Now we will be able to provision the terraform resources by just running the com
 terraform apply 
 ```
 
-
+### Create AWS instances using Terraform
